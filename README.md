@@ -14,7 +14,7 @@
 
 ## General Information
 - We have a dataset of the Bike Sharing sales based on date from 2018 and 2019.
-- Find Predictor variables that influence the sales represent as cnt.  
+- Find Predictor variables that influence the sales represented as cnt.  
 - Influential Variables can be used to improve the overall sales
 - Bike-Sharing can use this information to predict and then prepare the inventory based on the demand
 
